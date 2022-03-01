@@ -1,4 +1,3 @@
-# <!--  # Sandip Sharma 
 - 👋 Hi, I’mSandip Sharma 
 - 👀 I’m interested in JS,React, CSS/SASS and HTML
 - 🌱 I’m currently learning SASS
